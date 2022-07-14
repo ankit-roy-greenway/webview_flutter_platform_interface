@@ -34,13 +34,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.9.2"
-  plugin_platform_interface:
+  plugin_platform_interface_custom:
     dependency: "direct main"
     description:
       path: "."
       ref: main
-      resolved-ref: db5d0048887792ac02c16098f008f8af0760d07e
-      url: "https://github.com/ankit-roy-greenway/plugin_platform_interface.git"
+      resolved-ref: "76f4dc4e247c513c3263b1d4e1cf398e6e8ee494"
+      url: "https://github.com/ankit-roy-greenway/plugin_platform_interface_custom.git"
     source: git
     version: "2.0.2"
   sky_engine:

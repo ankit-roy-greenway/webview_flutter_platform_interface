@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:plugin_platform_interface/plugin_platform_interface.dart';
+import 'package:plugin_platform_interface_custom/plugin_platform_interface.dart';
 import 'package:webview_flutter_platform_interface/src/types/webview_cookie.dart';
 
 /// Interface for a platform implementation of a cookie manager.

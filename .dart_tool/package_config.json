@@ -32,8 +32,8 @@
       "languageVersion": "2.1"
     },
     {
-      "name": "plugin_platform_interface",
-      "rootUri": "file:///D:/Development/sdk/Flutter/flutter_1.22.6-stable/.pub-cache/git/plugin_platform_interface-db5d0048887792ac02c16098f008f8af0760d07e/",
+      "name": "plugin_platform_interface_custom",
+      "rootUri": "file:///D:/Development/sdk/Flutter/flutter_1.22.6-stable/.pub-cache/git/plugin_platform_interface_custom-76f4dc4e247c513c3263b1d4e1cf398e6e8ee494/",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -62,7 +62,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2022-07-14T03:48:23.328894Z",
+  "generated": "2022-07-14T05:00:58.935275Z",
   "generator": "pub",
   "generatorVersion": "2.10.5"
 }

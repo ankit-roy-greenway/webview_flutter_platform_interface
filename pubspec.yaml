@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface:
+  plugin_platform_interface_custom:
     git:
-      url: https://github.com/ankit-roy-greenway/plugin_platform_interface.git
+      url: https://github.com/ankit-roy-greenway/plugin_platform_interface_custom.git
       ref: main
 
 dev_dependencies:
